@@ -3,3 +3,10 @@
 tensorflow model checkpoints/events.out.tfevents.1539881798.virals-MacBook-Pro.local
 tensorflow model checkpoints/model.ckpt-0.meta
 *.meta
+tensorflow model checkpoints/checkpoint
+tensorflow model checkpoints/eval/events.out.tfevents.1539881886.virals-MacBook-Pro.local
+tensorflow model checkpoints/model.ckpt-0.data-00000-of-00001
+tensorflow model checkpoints/model.ckpt-111.data-00000-of-00001
+tensorflow model checkpoints/model.ckpt-0.index
+tensorflow model checkpoints/model.ckpt-111.index
+tensorflow model checkpoints/graph.pbtxt
