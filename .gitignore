@@ -1,2 +1,4 @@
 
 .DS_Store
+tensorflow model checkpoints/events.out.tfevents.1539881798.virals-MacBook-Pro.local
+tensorflow model checkpoints/model.ckpt-0.meta
